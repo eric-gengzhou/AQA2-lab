@@ -1,6 +1,9 @@
 # AQA2-lab
 This is the website for teaching resources for the lab session of Applied Quantitative Analysis II at New York University.
 
+## Applied Quantitative Analysis-II (AQA2)
+AQA2 is a graduate-level core quantitative method course for the Master program Applied Quantitative Research[https://as.nyu.edu/content/nyu-as/as/departments/sociology/academics/masters-aqr-program.html] at NYU Sociology. 
+
 ## Contents
 1. Review of regression analysis -- OLS, Logit, Probit basics
 2. Generalized linear models -- Logit, Probit regression models, interpreting odds ratios
