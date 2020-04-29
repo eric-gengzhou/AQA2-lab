@@ -16,3 +16,4 @@ AQA2 is a graduate-level core quantitative method course for the Master program 
 9. Treatment effects -- counterfactuals, PS-matching
 10. Panel data -- Pooled regression, GLS, Fixed/random effects, hierarchical models
 11. Instrumental variables -- LATE, 2-stage-least-sqaures
+12. Special topics: Time-series with covid-19 data
